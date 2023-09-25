@@ -2,7 +2,7 @@
 
 Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 
-![Presentation0](src/png/playStore.png)
+![Presentation0](png/playStore.png)
 
 ## Introduction
 
@@ -53,11 +53,11 @@ This project was designed to assess my ability to handle non-"clean" data and id
 ## The Presentation
 [Link to the Canva presentation](https://www.canva.com/design/DAFvRadSMgk/f1HwiV3kZu8Nkrpg9uk_Tw/watch?utm_content=DAFvRadSMgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-![Presentation1](src/png/1.png)
-![Presentation2](src/png/2.png)
-![Presentation3](src/png/3.png)
-![Presentation4](src/png/4.png)
-![Presentation5](src/png/5.png)
-![Presentation6](src/png/6.png)
-![Presentation7](src/png/7.png)
-![Presentation8](src/png/8.png) 
+![Presentation1](png/1.png)
+![Presentation2](png/2.png)
+![Presentation3](png/3.png)
+![Presentation4](png/4.png)
+![Presentation5](png/5.png)
+![Presentation6](png/6.png)
+![Presentation7](png/7.png)
+![Presentation8](png/8.png) 
