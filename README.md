@@ -50,16 +50,6 @@ This project was designed to assess my ability to handle non-"clean" data and id
 - [x] Google Sheets & Microsoft Excel 
 - [x] The presentation - Canva
 
-## Agenda
-
-| *The Agenda:* | 
-| ----------- | 
-| Introduction: free Vs paid apps | 
-| Diving Deeper: Developer Insights |
-| Exploring Seasonal trends |
-| Effect of In - App advertisment | 
-| Conclusive Insights & Recommendations | 
-
 ## The Presentation
 [Link to the Canva presentation](https://www.canva.com/design/DAFvRadSMgk/f1HwiV3kZu8Nkrpg9uk_Tw/watch?utm_content=DAFvRadSMgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
