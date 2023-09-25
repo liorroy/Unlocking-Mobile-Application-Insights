@@ -10,9 +10,8 @@ Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 
 ## Technologies Used:
 - [x] Data Source [Open Data on Medical Cannabis csv](https://www.meida.org.il/?p=11491)
-- [x] SQL views & tables - hosted on Google BigQuery
+- [x] SQL table - hosted on Google BigQuery
 - [x] Presentation - Canva
-
 
 
 ## Agenda
@@ -29,11 +28,11 @@ Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 ## Data Route
 ![Data Route](https://github.com/elijellyeli/medical-cannabis-analysis/blob/main/src/data%20route.png)
 
-## Online Power BI report
+## Canva Presentation
 
 ![Report](https://github.com/elijellyeli/medical-cannabis-analysis/blob/main/src/power%20bi%20report.png)
 
-[Link to report](https://www.canva.com/design/DAFvRadSMgk/view)
+[Link to Presentation](https://www.canva.com/design/DAFvRadSMgk/view)
 
 ## Summary
 
