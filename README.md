@@ -24,7 +24,6 @@ Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 | Effect of In - App advertisment | 
 | Conclusive Insights & Recommendations | 
 
-
 ## The Presentation
 
 ![Presentation1](src/png/1.png)
