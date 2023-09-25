@@ -33,7 +33,8 @@ Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 
 ![Report](https://github.com/elijellyeli/medical-cannabis-analysis/blob/main/src/power%20bi%20report.png)
 
-[Link to report]([https://www.canva.com/design/DAFvJ8mcLhE/cW0oEdEa-5-LOEFQVS_Yvg/view?utm_content=DAFvJ8mcLhE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFvJ8mcLhE/cW0oEdEa-5-LOEFQVS_Yvg/view?utm_content=DAFvJ8mcLhE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)https://www.canva.com/design/DAFvJ8mcLhE/cW0oEdEa-5-LOEFQVS_Yvg/view?utm_content=DAFvJ8mcLhE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[Link to report](https://www.canva.com/design/DAFvRadSMgk/view)
+
 ## Summary
 
 We had a great time and learnt a lot along the way.
