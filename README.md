@@ -25,14 +25,14 @@ Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 | Conclusive Insights & Recommendations | 
 
 
-## Data Route
+## The Presentation 1
 ![Data Route](https://github.com/elijellyeli/medical-cannabis-analysis/blob/main/src/data%20route.png)
 ![Data Route1](https://github.com/liorroy/Unlocking-Mobile-Application-Insights-A-Comprehensive-Data-Analysis/blob/main/src/png/1.png)
 ![Data Route2](src/png/1.png)
 
-## Canva Presentation
+## The Presentation
 
-![Report](https://github.com/elijellyeli/medical-cannabis-analysis/blob/main/src/power%20bi%20report.png)
+![Presentation1](src/png/1.png)
 
 [Link to Presentation1](https://www.canva.com/design/DAFvRadSMgk/f1HwiV3kZu8Nkrpg9uk_Tw/watch?utm_content=DAFvRadSMgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
