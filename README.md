@@ -34,8 +34,6 @@ Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 
 [Link to Presentation1](https://www.canva.com/design/DAFvRadSMgk/f1HwiV3kZu8Nkrpg9uk_Tw/watch?utm_content=DAFvRadSMgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-[Link to Presentation](https://www.canva.com/design/DAFvRadSMgk/view)
-
 ## Summary
 
 We had a great time and learnt a lot along the way.
