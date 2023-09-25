@@ -27,6 +27,7 @@ Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 
 ## Data Route
 ![Data Route](https://github.com/elijellyeli/medical-cannabis-analysis/blob/main/src/data%20route.png)
+![Data Route](https://github.com/liorroy/Unlocking-Mobile-Application-Insights-A-Comprehensive-Data-Analysis/tree/main/src/png/1.png)
 
 ## Canva Presentation
 
