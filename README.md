@@ -2,7 +2,7 @@
 
 Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 
-![Presentation1](src/png/playStore.png)
+![Presentation0](src/png/playStore.png)
 
 ## Introduction
 
@@ -41,16 +41,14 @@ This project was designed to assess my ability to handle non-"clean" data and id
 | maxprice | Max price for in-app products |
 | minprice | Min price for in-app products |
 
-*There are almost 30,0000 Apps in our playstore dataset.
-
-*I only showcased the releavnt columns which I have chose to use in the Data analysis (there are 36 columns in the dataset)
+*I only showcased the releavnt columns which I chose to use in my data analysis process (there are 36 columns in the original dataset)
 
 ## Technologies Used:
 - [x] Data Source: Google PlayStore Android App Data: google-play-dataset-by-tapivedotcom.csv [tapive, ](https://tapive.com/)
 [Familiar dataset from Kaggle *our BigQuery dataset has 29,456 apps (rows)](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 - [x] SQL table - hosted on Google BigQuery [Link to SQL script](BigQuerySQLScript)
 - [x] Google Sheets & Microsoft Excel 
-- [x] Presentation - Canva
+- [x] The presentation - Canva
 
 ## Agenda
 
