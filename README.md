@@ -25,22 +25,17 @@ Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 | Conclusive Insights & Recommendations | 
 
 
-## The Presentation 1
-![Data Route](https://github.com/elijellyeli/medical-cannabis-analysis/blob/main/src/data%20route.png)
-![Data Route1](https://github.com/liorroy/Unlocking-Mobile-Application-Insights-A-Comprehensive-Data-Analysis/blob/main/src/png/1.png)
-![Data Route2](src/png/1.png)
-
 ## The Presentation
 
 ![Presentation1](src/png/1.png)
+![Presentation2](src/png/2.png)
+![Presentation3](src/png/3.png)
+![Presentation4](src/png/4.png)
+![Presentation5](src/png/5.png)
+![Presentation6](src/png/6.png)
+![Presentation7](src/png/7.png)
+![Presentation8](src/png/8.png) 
 
-[Link to Presentation1](https://www.canva.com/design/DAFvRadSMgk/f1HwiV3kZu8Nkrpg9uk_Tw/watch?utm_content=DAFvRadSMgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[Link to Canva](https://www.canva.com/design/DAFvRadSMgk/f1HwiV3kZu8Nkrpg9uk_Tw/watch?utm_content=DAFvRadSMgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-## Summary
-
-We had a great time and learnt a lot along the way.
-
-It was intresting working as a team and diving into the data.
-
-Thank you for reading along!
 
