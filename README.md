@@ -1,4 +1,4 @@
-# Unlocking-Mobile-Application-Insights-A-Comprehensive-Data-Analysis
+# Unlocking-Mobile-Application-Insights
 
 Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 
