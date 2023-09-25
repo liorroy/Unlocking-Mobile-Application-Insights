@@ -1,6 +1,8 @@
 # Unlocking-Mobile-Application-Insights-A-Comprehensive-Data-Analysis
 Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 
+![Presentation1](src/png/playStore.png)
+
 ## Project Objective
 - Analysis of Medical Cannabis approvals in Israel (years 2018-2020)
 - Analizing the reasons for different prescriptions
@@ -35,14 +37,8 @@ This project is designed to assess your ability to handle non-"clean" data and i
 ![Presentation7](src/png/7.png)
 ![Presentation8](src/png/8.png) 
 
-# Zen-City-s-Journey-through-London-s-bike-rental-data
-Zen City's Data Driven Journey through London's bike rental data
 
-## Team Members
 
-[Lior Roytburd](https://www.linkedin.com/in/lior-roytburd/)
-
-[Daniel Edri](https://www.linkedin.com/in/danieledri/)
 
 ## Introduction
 In the bustling city of London, the need for a sustainable & efficient transportation system led to
@@ -58,17 +54,8 @@ We went through various stages of analysis, from dealing with untidy data, ident
 ## Data Description: The dataset comprises the following columns:
 
 
-- [x] Data Source: bigquery-public-data.london_bicycles.cycle_stations [Open Data on Google BigQuery](https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1sbigquery-public-data!2slondon_bicycles!3scycle_stations)
-
-appId: Google Play ID.
-developer: Developer's name.
-developerId: Developer's unique ID.
-developerWebsite: Developer's website.
-free: Indicates whether the app is free or paid.
-genre: App's genre.
-genreId: Genre with subcategory.
-inAppProductPrice: Price of in-app products.
-minInstalls: Number of installs.
+- [x] Data Source: Google PlayStore Android App Data: google-play-dataset-by-tapivedotcom.csv [tapive](https://tapive.com/)
+[Familiar dataset from Kaggle *our BigQuery dataset has 29,456 apps (rows)](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
 | *Field name* | *Description* |
 | ----------- | ----------- |
