@@ -7,9 +7,11 @@ Unlocking Mobile Application Insights: A Comprehensive Data Analysis
 ## Introduction
 
 Today, more and more businesses are offering their services through mobile applications. Because of this massive number of apps it is hard to compete and get your product in front of potential customers. So, it is important to make thorough research into your niche category and find out how you would stack up against your competitors.
+
 This case study aims to leverage Google SQL to analyze the Google Playstore dataset, which contains details about the Apps in playstore:  the app, its developer, pricing, genre, and installation statistics.
-There are almost 30,0000 Apps in our playstore dataset.
+
 The primary objectives are to explore the data, extract meaningful insights, and create a presentation summarizing the findings, in order to deliver insights to understand customer demands better and thus help developers to popularize their applications.
+
 This project was designed to assess my ability to handle non-"clean" data and identify insights within it, similar to real-world scenarios in the tech industry, especially in roles that involve analyzing data trends, There wasn't one right approach, also, the project was designed to assess my ability to reveal relevant business implications alongside data analysis.
 
 
@@ -38,6 +40,8 @@ This project was designed to assess my ability to handle non-"clean" data and id
 | price | App's Price |
 | maxprice | Max price for in-app products |
 | minprice | Min price for in-app products |
+
+*There are almost 30,0000 Apps in our playstore dataset.
 
 *I only showcased the releavnt columns which I have chose to use in the Data analysis (there are 36 columns in the dataset)
 
