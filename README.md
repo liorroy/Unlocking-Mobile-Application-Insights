@@ -46,7 +46,7 @@ This project was designed to assess my ability to handle non-"clean" data and id
 ## Technologies Used:
 - [x] Data Source: Google PlayStore Android App Data: google-play-dataset-by-tapivedotcom.csv [tapive, ](https://tapive.com/)
 [Familiar dataset from Kaggle *our BigQuery dataset has 29,456 apps (rows)](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
-- [x] SQL table - hosted on Google BigQuery [Link to SQL script](BigQuerySQLScript)
+- [x] SQL table - hosted on Google BigQuery [Link to SQL script](BigQuerySQLScript.sql)
 - [x] Google Sheets & Microsoft Excel 
 - [x] The presentation - Canva
 
